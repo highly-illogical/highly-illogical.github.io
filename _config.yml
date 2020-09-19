@@ -1,0 +1,11 @@
+defaults:
+  - scope:
+      path: ''
+    values:
+      layout: default
+      excerpt_separator: '<!--more-->'
+
+plugins:
+  - jekyll-paginate
+
+paginate: 10

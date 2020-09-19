@@ -1,0 +1,59 @@
+{% assign lastmonth = "" %}
+{% assign lastyear = "" %}
+{% assign lastdate = "" %}
+<div id="archive">
+{% for post in site.posts %}
+    {% assign currentdate = post.date | date: "%B %Y" %}
+    {% assign currentyear = post.date | date: "%Y" %}
+    {% assign currentmonth = post.date | date: "%B" %}
+    {% if currentdate != lastdate %}
+    {% if currentmonth != lastmonth %}
+        {% if currentyear != lastyear %}
+            {% if lastyear != "" %}
+            </ul></div></ul></div>
+            {% endif %}
+            <div><div data-year="{{ currentyear }}" class="y">{{ currentyear }}</div><p></p><ul>
+            {% assign lastyear = currentyear %}
+            {% assign lastmonth = "" %}
+        {% else %}
+            </ul>
+            {% if lastmonth != "" %}
+            </div>
+            {% endif %}
+            {% assign lastmonth = currentmonth %}
+        {% endif %}
+        <div class="{{ currentyear }} m"><div data-year="{{ currentyear }}" data-month="{{ currentmonth }}" class="month"><li>{{ currentmonth }}</li></div><p></p><ul>
+    {% endif %}
+    {% endif %}
+    <div class="{{ currentyear }} {{ currentmonth }} p"><li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li></div><p></p>
+    {% assign lastdate = currentdate %}
+{% endfor %}</ul></div></ul></div>
+</div>
+
+<!--2019
+- December
+    - Post 1
+    - Post 2
+- November
+    - Post 1
+    - Post 2
+2018
+- December
+- November
+
+
+<div><div>2019</div>
+    <ul>
+        <div><div><li>December</li></div>
+            <ul>
+                <div><li>Post 1</li></div>
+                <div><li>Post 2</li></div>
+            </ul>
+        <div><div><li>November</li></div>
+            <ul>
+                <div><li>Post 1</li></div>
+            </ul>
+        </div>
+    </ul>
+    </div>
+<div><div>2018</div>-->

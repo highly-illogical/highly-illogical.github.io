@@ -1,0 +1,174 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 13.5px;
+}
+
+img {
+  width: 100%;
+}
+
+blockquote {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.navbar {
+  display: flex;
+}
+
+.navbar a {
+  padding: 5px 10px;
+  font-size: 24px;
+  font-family: 'Crimson Text', Georgia, serif;
+  transition: ease-out 0.2s;
+  transition-property: all;
+}
+
+.navbar a:nth-child(even) {
+  color: black;
+  background-color: white;
+}
+
+.navbar a:nth-child(even):hover {
+  color: white;
+  background-color: black;
+}
+
+.navbar a:nth-child(odd) {
+  color: white;
+  background-color: black;
+}
+
+.navbar a:nth-child(odd):hover {
+  color: black;
+  background-color: white;
+}
+
+.header {
+  height: 100px;
+  width: 80%;
+  margin-left: 10%;
+  text-align: center;
+}
+
+.container {
+  width: 80%;
+  margin-left: 10%;
+  display: flex;
+}
+
+.container > * {
+  background-color: white;
+  padding: 60px 22% 10px;
+}
+
+.content .title {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.sidebar {
+  width: 30%;
+  margin-left: 10px;
+  box-shadow: 4px 6px 5px lightsteelblue;
+}
+
+.sidebar .title {
+  font-size: 18px;
+}
+
+.sidebar div {
+  cursor: pointer;
+}
+
+.footer {
+  height: 75px;
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 10px;
+  border-radius: 0 0 30px 30px;
+  background-color: white;
+  text-align: center;
+}
+
+h1 {
+  font-size: 100px;
+  position: relative;
+  font-family: 'Crimson Text', Georgia, serif;
+  /*top: 50%;
+  transform: translateY(-50%);*/
+}
+
+.tagline {
+  height: 16px;
+  width: 80%;
+  margin-left: 10%;
+  font-size: 16px;
+  font-weight: bold;
+  display: inline-block;
+  padding: 0px 10px 0px 10px;
+  border-radius: 4px;
+  background-color: black;
+  color: white;
+  position: relative;
+  text-align: right;
+  font-family: 'Merriweather', 'Crimson Text', Georgia, serif;
+}
+
+a {
+  text-decoration: none;
+  color: steelblue;
+}
+
+.post {
+  margin-bottom: 50px;
+}
+
+.title {
+  margin: 10px 0 3px 0;
+  padding-bottom: 5px;
+  color: darkblue;
+}
+
+.title > * {
+  color: black;
+  font-family: 'Crimson Text', Georgia, serif;
+}
+
+.info {
+  color: gray;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+.text {
+  font-family: Georgia, serif;
+  line-height: 1.7;
+  padding: 5px 0;
+  color: #444444;
+  text-indent: 3%;
+}
+
+ul,
+li {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 20px;
+}
+
+blockquote {
+  font-style: italic;
+  color: grey;
+}
+
+#archive,
+.m,
+.p {
+  display: none;
+  font-size: 14px;
+}

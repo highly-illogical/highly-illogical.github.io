@@ -1,0 +1,15 @@
+---
+layout: default
+title: Home
+---
+
+{% for post in paginator.posts %}
+<div class="post">
+  <div class="title">
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+  </div>
+  <div class="info">Posted on {{ post.date | date: '%B %e, %Y' }}</div>
+  <div class="text">{{ post.excerpt }}</div>
+  <a href="{{ post.url | relative_url }}">[Read more...]</a>
+</div>
+{% endfor %}

@@ -1,0 +1,25 @@
+---
+title: 'Positive-Sum Utopia'
+---
+
+One of the most intuitive arguments in favour of socialism is that _competition is wasteful_.
+
+This sounds a lot like the argument usually advanced _against_ socialism (i.e. that it's wasteful and inefficient, and only competition can prevent that wastefulness). So to make it less confusing, it might be helpful to state it this way: suppose there's a group of people who collectively want to achieve a certain goal. One way to do this would be to first figure out what was to be done, then break it down into sub-tasks and allocate each sub-task to a group member. When all the members completed their respective sub-tasks, the goal would be achieved.
+
+<!--more-->
+
+Another way might be for each member to independently decide how the goal was to be achieved and what role they could play in its achievement, then start trying to achieve it without consulting anyone else. When, by sheer luck, someone happened to not only hit on the right plan but also execute it without getting tripped up by someone else working at cross purposes, the goal would be achieved.
+
+I think the latter is basically what capitalism looks like to socialists. A central theme of Marxism is the anarchic, unplanned character of the free market, in which human beings are enslaved by forces of their own creation. Because they see themselves as isolated individuals, they don't realize that the aggregate effect of their individual decisions is something that nobody really wants, and that they could do much better if they coordinated their decisions as a group. Like the prisoners in Prisoner's Dilemma, they believe they are acting rationally in not cooperating. But when everyone plays the rational strategy, they end up in a Nash equilibrium where everyone loses.
+
+On the face of it, this argument has a lot of force. After all, this logic generally works for most collective goals. Planning is better than anarchy, coordination is better than haphazard flailing, cooperation is better than tearing each other down, and any effort that goes into fighting with other group members is misdirected effort that ought to be redirected toward the goal. Why should it suddenly stop working when the goal is producing the goods needed by the economy?
+
+A framing of a response to this intuitive socialist argument might be this: _competition works by eliminating competition_. One way of looking at competition is that it involves people trying to snatch stuff for themselves instead of politely waiting their turn (as my cousin's three-year-old daughter did during a soccer game at school - when asked why she didn't kick the ball, she replied, "They didn't give me my turn!"). And that's mean, and it sucks, and it's really rather pointless. Another way of looking at it is: people compete when they don't know which of them is the best at something. Competition is what yields that information, and when that information has been obtained, the competition is over.
+
+In this light, competition isn't just people fighting with each other and taking away focus from a collective goal. It's actually a prerequisite for coordination. When producers compete in the market to sell the best goods at the lowest price, this isn't just a manifestation of greed and economic anarchy. It's also how society collectively figures out what quality and quantity of goods can be produced at what price, and who is capable of producing them. Once that information is known, other producers will only try to break into that market if they can do _at least_ as well - otherwise, being unable to make a profit there, they'll focus their efforts elsewhere. The end result will be a kind of unintended coordination: everyone doing the thing they're _at least_ somewhat good at.
+
+It's also important to remember, though, that these are both valid models of how competition works. There's the Prisoner's Dilemma/tragedy-of-the-commons model, where individual selfishness turns what could have been a win-win situation into a lose-lose one. And there's the informational-mechanism model, where competition gives us information about how best to do things that we wouldn't have otherwise. Neither of these is an *incorrect* understanding of what competition is (and to complicate things further, nor are these models mutually exclusive).
+
+The socialist belief (as far as I can tell) is that economic activity is a positive-sum game. One person's gain doesn't have to be another's loss - there's enough for all of us. But when some people take more than their fair share, it ends up being that way. (There are nuanced differences here between socialists, communists, anarchists and the rest of the lot, but I'm not getting into all that here. This is roughly the idea.) If this state of things could be abolished somehow, we'd have a world in which we were all better off.
+
+This is an interesting, useful and partially correct way of looking at the world. It just isn't the only way.
