@@ -4,6 +4,8 @@ title: Morality as a Scarce Resource
 
 [spoilers: *The Good Place*]
 
+[Edit 19/02/21: This was apparently unconsciously inspired by and borrows from Thomas Sowell's *A Conflict of Visions*. Excerpt [here](https://reason.com/1987/04/01/visions-of-man/).]
+
 <!--more-->
 
 In season 3 of *The Good Place*, there's [a character named Doug Forcett](https://www.youtube.com/watch?v=HPEwD7WpI9g) who, having figured out the afterlife's points system while tripping on mushrooms, dedicates himself completely to living the most ethical life possible, so that when he dies he'll have enough points to go to the good place. He tries to live completely sustainably, is pleasant to everyone he meets, donates as much as he can to whoever needs it, and generally takes every action possible that might earn him points and avoids anything that might lose him points. However, when the points system is investigated, it turns out that even Doug Forcett doesn't have enough points to get into the good place - that in fact, for hundreds of years, not a single person has managed to get in, because the way the system is set up makes it impossible. The modern world is so complex that a person simply cannot keep track of all the unintended consequences of their actions, which leaves them with no way to make ethical decisions.
