@@ -5,16 +5,12 @@ body {
 }
 
 body {
-  font-family: 'Old Standard TT', Georgia, 'Times New Roman', Times, serif;
-  font-size: 16px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 13px;
 }
 
 img {
   width: 100%;
-}
-
-blockquote {
-  font-family: 'Old Standard TT', Georgia, 'Times New Roman', Times, serif;
 }
 
 .navbar {
@@ -25,6 +21,7 @@ blockquote {
 .navbar a {
   padding: 5px 10px;
   font-size: 24px;
+  font-weight: normal;
   font-family: 'Crimson Text', Georgia, serif;
   transition: ease-out 0.2s;
   transition-property: all;
@@ -146,7 +143,7 @@ a {
 
 .title > * {
   color: black;
-  font-family: 'Old Standard TT', 'Crimson Text', Georgia, serif;
+  font-family: 'Crimson Text', Georgia, serif;
 }
 
 .info {
@@ -156,10 +153,10 @@ a {
 }
 
 .text {
-  font-family: 'Old Standard TT', Georgia, serif;
-  line-height: 1.5;
+  font-family: Georgia, serif;
+  line-height: 1.7;
   padding: 5px 0;
-  /*color: #444444;*/
+  color: #444444;
   text-indent: 3%;
 }
 
@@ -171,10 +168,9 @@ li {
 }
 
 blockquote {
-  /*line-height: 1.6;
+  /*line-height: 1.4;
   font-size: 13.5px;*/
   font-style: none;
-  color: grey;
 }
 
 #archive,
