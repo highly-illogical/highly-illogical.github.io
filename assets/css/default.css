@@ -6,7 +6,7 @@ body {
 
 body {
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 13px;
+  font-size: 14px;
 }
 
 img {
@@ -154,7 +154,7 @@ a {
 
 .text {
   font-family: Georgia, serif;
-  line-height: 1.7;
+  line-height: 1.5;
   padding: 5px 0;
   color: #444444;
   text-indent: 3%;
